@@ -1,0 +1,6 @@
+framework module Pods_whatflower {
+  umbrella header "Pods-whatflower-umbrella.h"
+
+  export *
+  module * { export * }
+}
